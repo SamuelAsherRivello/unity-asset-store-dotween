@@ -4,7 +4,7 @@
 
 <BR>
 
-This is a demo of the [Hot Reload](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) Unity Asset Store package. 
+This is a demo of the [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) Unity Asset Store package. 
 
 >Each user is responsible for respecting any and all required licenses to use this repo.
 
